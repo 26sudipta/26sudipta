@@ -29,7 +29,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=26sudipta&layout=compact&theme=tokyonight)  
 ![Snake animation](https://github.com/26sudipta/26sudipta/blob/output/github-contribution-grid-snake.svg) 
 ![Sudipta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=26sudipta&theme=tokyo-night&hide_border=true)
-![Sudipta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=26sudipta&theme=tokyo-night&hide_border=true)  
+
 
 ---
 
