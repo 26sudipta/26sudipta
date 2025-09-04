@@ -27,7 +27,8 @@
 ## 📊 GitHub Analytics  
 ![Sudipta's GitHub stats](https://github-readme-stats.vercel.app/api?username=26sudipta&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=26sudipta&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=26sudipta&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=26sudipta&theme=tokyonight)
+
 
 ---
 
