@@ -25,19 +25,17 @@
 ---
 
 ## 📊 GitHub Analytics  
-## 📊 GitHub Analytics  
-
 ![Sudipta's GitHub stats](https://github-readme-stats.vercel.app/api?username=26sudipta&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=26sudipta&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=26sudipta&theme=tokyonight&hide_border=true)  
-
+![Sudipta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=26sudipta&theme=tokyo-night&hide_border=true)  
 
 ---
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudipta--das/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudiptadas26022003@gmail.com@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://26sudipta.github.io/porfolio/)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudiptadas26022003@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://26sudipta.github.io/portfolio/)  
 
 ---
 
