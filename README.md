@@ -27,7 +27,8 @@
 ## 📊 GitHub Analytics  
 ![Sudipta's GitHub stats](https://github-readme-stats.vercel.app/api?username=26sudipta&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=26sudipta&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=26sudipta&theme=tokyonight&hide_border=true)  
+![Snake animation](https://github.com/26sudipta/26sudipta/blob/output/github-contribution-grid-snake.svg) 
+![Sudipta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=26sudipta&theme=tokyo-night&hide_border=true)
 ![Sudipta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=26sudipta&theme=tokyo-night&hide_border=true)  
 
 ---
